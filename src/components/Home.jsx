@@ -14,9 +14,14 @@ const Home = () => {
         <p className="text-sm md:text-2xl tracking-tight ">
           Full Time Learner | Frontend Developer | DSA | Java
         </p>
-        <button className="mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
+       <div className="sm:flex sm:flex-col xs:flex xs:flex-col md:flex md:flex-row md:justify-center md:gap-4 xs:gap-2">
+         <button className="mt-5 md:md-10 text-white py-2 mx-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
           <a href="#Footer">Contact Me</a>
         </button>
+        <button className="mt-5 ml-4md:md-10 text-white py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
+          <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto">See My Resume</a>
+        </button>
+       </div>
       </div>
       <div>
         <img className="md:h-80 md:pr-20 h-52 rounded-lg xs:w-[50px]" src={myphotobg} alt="" />

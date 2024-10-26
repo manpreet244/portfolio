@@ -52,7 +52,7 @@ const About = () => {
                   Open Source Contributor
                 </h1>
                 <p className="text-sm md:text-lg leading-tight">
-                  <li>At Girlscript ummer of code </li>
+                  <li>At Girlscript Summer of code </li>
                 <li>Contributed in some repositories like Curious-Connect , Vedic Vani , GGExtensions in frontend part </li>
                  <li>In Curious-Connect repository , i worked with websockets for real time communication</li>
                 </p>
