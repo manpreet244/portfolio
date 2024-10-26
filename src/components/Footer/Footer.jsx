@@ -1,7 +1,7 @@
 import React from "react";
 import { MdOutlineEmail } from "react-icons/md";
 import { CiLinkedin } from "react-icons/ci";
-import { FaGithub } from "react-icons/fa";
+import { FaGithub, FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -28,6 +28,10 @@ const Footer = () => {
         <li className="flex gap-1 items-center">
           <FaGithub />
          <a href="https://github.com/manpreet244/">Github </a>
+        </li>
+        <li className="flex gap-1 items-center">
+          <FaYoutube/>
+         <a href="https://www.youtube.com/@Manpreetkaur-xr7cg">YouTube </a>
         </li>
       </ul>
     </div>

@@ -39,7 +39,7 @@ const About = () => {
                 <li>As a YouTube content creator focused on technical education, </li>
                 <li>I create engaging and informative video tutorials for an
                    audience interested in coding, problem-solving, and software 
-                   development</li><li> My channel features a variety of contentfrom LeetCode problem-solving sessions to in-depth web development tutorials, aimed at helping viewers improve their 
+                   development</li><li> My channel features a variety of content from LeetCode problem-solving sessions to in-depth web development tutorials, aimed at helping viewers improve their 
                 coding skills </li>
                 </p>
               </span>

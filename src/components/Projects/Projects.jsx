@@ -33,7 +33,7 @@ A chat app with WebSockets and React enables real-time, bidirectional communicat
         />
         <ProjectCard
           title="Weather App"
-          main="this is a bloggin website created in next js and used some component library used some component library"
+          main="This is a weather app using a Weather API is a web or mobile application that provides real-time weather information for various locations. "
            demolink="  https://react-nice-weather.netlify.app/"
            cardimg={weather}
         />
