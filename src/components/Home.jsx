@@ -19,7 +19,7 @@ const Home = () => {
           <a href="#Footer">Contact Me</a>
         </button>
         <button className="mt-5 ml-4md:md-10 text-white py-2 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
-          <a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto">See My Resume</a>
+          <a href="https://drive.google.com/file/d/1Yh41av4er8ODnUSNWOOelogeQQpMGg_5/view">See My Resume</a>
         </button>
        </div>
       </div>
