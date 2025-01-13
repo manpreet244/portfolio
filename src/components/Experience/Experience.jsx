@@ -39,12 +39,12 @@ const Experience = () => {
           <div className="flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-4 items-center">
             <img src={logo} className="w-12 rounded-lg"/>
             <span className="text-white">
-              <h2 className="leading-tight">Open Source Frontend Developer , Curious Ecosystems</h2>
+              <h2 className="leading-tight">Open Source Full Stack Developer , Curious Ecosystems</h2>
               <p className="text-sm leading-tight font-thin">
                 May 2024 - Present
               </p>
               <ul className="text-sm p-2">
-                <li>- Working as open source developer</li>
+                <li>-Worked on Frontend Technologies like react  </li>
            
               </ul>
             </span>
@@ -59,7 +59,7 @@ const Experience = () => {
               </p>
               <ul className="text-sm p-2">
                 <li>- May-2024- Aug-2024</li>
-                <li> Contributed in 3 repositories like Curious-Connect , Vedic Vani , GGExtensions in frontend</li>
+                <li> Contributed in  repositories like Curious-Connect , Vedic Vani , GGExtensions in frontend</li>
              
               </ul>
             </span>

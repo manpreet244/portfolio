@@ -4,6 +4,7 @@ import weather from "../../assets/weather.jpg";
 import chatimg  from "../../assets/chatapp.avif"
 import whatsappimg  from "../../assets/whatsapp.avif"
 import reactimg from "../../assets/react.png"
+import newsimg from "../../assets/news.png"
 const Projects = () => {
   return (
     <div id="Projects" className="p-10 md:p-24 text-white ">
@@ -15,8 +16,17 @@ const Projects = () => {
           main="
 A chat app with WebSockets and React enables real-time, bidirectional communication between users, delivering instant message updates without page refreshes"
            demolink="  https://manpreet-chat-ajay767.vercel.app/"
-           sourcecodelink="https://github.com/manpreet244/chat-app"
+           sourcecodelink="https://github.com/manpreet244/ChatWe"
            cardimg={chatimg}
+        />
+        
+        <ProjectCard
+          title="News App"
+          main="
+A chat app with WebSockets and React enables real-time, bidirectional communication between users, delivering instant message updates without page refreshes"
+           demolink="https://news-app-ihxg.vercel.app/"
+           sourcecodelink="https://github.com/manpreet244/news-app"
+           cardimg={newsimg}
         />
          <ProjectCard
           title="Whatsapp Clone"
@@ -33,8 +43,8 @@ A chat app with WebSockets and React enables real-time, bidirectional communicat
         />
         <ProjectCard
           title="Weather App"
-          main="This is a weather app using a Weather API is a web or mobile application that provides real-time weather information for various locations. "
-           demolink="  https://react-nice-weather.netlify.app/"
+          main="This is a weather app using  OpenWeather API is a web or mobile application that provides real-time weather information for various locations. "
+           demolink="https://react-weather-app-six-sigma.vercel.app/"
            cardimg={weather}
         />
       
